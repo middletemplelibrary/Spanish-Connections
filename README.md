@@ -34,7 +34,7 @@ This book takes the form of a dialogue between two characters, each representing
 
 <param ve-iframe 
       label="add"
-      src="https://archive.org/details/examen-de-la-composicion-theriacal-de-andromacho">
+      src="https://archive.org/embed/examen-de-la-composicion-theriacal-de-andromacho">
       
 ## 4. Title
 Text
