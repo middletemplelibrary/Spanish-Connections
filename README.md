@@ -20,5 +20,307 @@ Despite the economic and military tensions, there was an active exchange of good
       license="CC BY-NC-SA 4.0"
       url="https://github.com/user-attachments/assets/023ab023-94e0-4d31-800d-2cb60fdc5815">
 
+## 2. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 3. Juan de Liaño, Examen de la composicion theriacal de Andromacho (Burgos, 1546)
+This book takes the form of a dialogue between two characters, each representing aspects of the wider theories of early modern medicine. Sylvio is the learned Galenic physician who delves into ancient texts to heal, whereas Maturiro is an old botanist who is now concerned with the practicality of using herbs and plants to heal. Their first dialogue debates whether Sylvio is working too hard – Maturiro believes work is difficult, but Sylvio believes leisure will lead to sin. Theriac (also called Mithridate) was a well-known panacea throughout the classical, medieval, and early modern period. It was believed to have been invented by King Mithridates VI of Pontus, and was prescribed by royal and imperial physicians for centuries. It was to Physicians as the Philosopher’s Stone was to alchemists: the magnum opus. – Nicholas Ricardo
+
+<param ve-iframe 
+      label="add"
+      src="https://archive.org/details/examen-de-la-composicion-theriacal-de-andromacho">
+      
+## 4. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+## 5. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+## 6. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 6. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 7. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 8. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 9. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 10. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 11. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+      
+## 12. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 13. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 14. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 15. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 16. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 17. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 18. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 19. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 20. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+      
+## 21. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 22. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 23. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 24. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 25. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 26. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 27. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 28. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 29. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 30. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 31. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 32. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 33. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
+## 34. Title
+Text
+<br><br>
+
+<param ve-image 
+      label="Image"
+      license="CC BY"
+      url="url here">
+
 ##
 This exhibition runs in Middle Temple Library from January to April 2025. For more information about the Library and what we do, please click [here](https://www.middletemple.org.uk/library) to visit our website.
