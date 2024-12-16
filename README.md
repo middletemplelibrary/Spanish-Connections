@@ -1,19 +1,8 @@
-# Spanish-Connections
-Sixteenth to Eighteenth Century Spanish Connections at Middle Temple 
-
-
 <param ve-config 
        title="Sixteenth to Eighteenth Century Spanish Connections at Middle Temple"
        author="Middle Temple Library"
        banner="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/54f6c993-26ee-4c1c-a361-c590a27763ee"
        layout="vertical">
-
-## 
-Welcome to Middle Temple Library’s exhibition, Mapping the Early Modern Inns of Court.
-
-<param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
-
 
 ## 1. Introduction: Sixteenth to Eighteenth Century Spanish Connections at Middle Temple 
 text
