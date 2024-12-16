@@ -14,4 +14,4 @@ text
       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/25e241cb-e140-43ed-801d-c98dd04a84af">
 
 ##
-This exhibition runs in Middle Temple Library from May to August 2024. For more information about the Library and what we do, please click [here](https://www.middletemple.org.uk/library) to visit our website.
+This exhibition runs in Middle Temple Library from January to April 2025. For more information about the Library and what we do, please click [here](https://www.middletemple.org.uk/library) to visit our website.
