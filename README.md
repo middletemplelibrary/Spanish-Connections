@@ -282,7 +282,7 @@ Despite what the Monty Python troupe may have to say about it, one should expect
 
 <param ve-image 
       label="An auto-da-fé in the Great Square in Madrid with the inquisitors pronouncing the sentences to the accused and the crowds on the tribunes. Source: Wellcome Collection."
-       attribution="PDM"
+       attribution="[Public Domain](https://creativecommons.org/public-domain/pdm/)"
       url="https://github.com/user-attachments/assets/3cae35bc-8e1c-4ef9-8b5e-02a1de260f71">
 
 ##
