@@ -108,203 +108,182 @@ De Vargas wrote this book as a guide for Spanish garrisons in the New World. It 
 <param ve-iframe
       src="https://archive.org/embed/ARes74410">
 
-## 13. Title
-Text
-<br><br>
+## 13. Marcelo de Ribadeneira, Historia de las islas del archipielago y reynos de la gran China, Tartaria, Cuchinchina, Malaca, Sian, Camboxa y Jappon (Barcelona, 1601)
+Missionary accounts of the sixteenth and seventeenth centuries provided Europeans with some of their first published glimpses of American, Asian, and African cultures. In this book, Ribadeneira chronicles not only the missionary work of Franciscan missionaries in the Philippines, but also the social and cultural mores of the people in Southeast and East Asia. In her PhD dissertation, Eva M. Pascal has argued that this is a “missionary ethno-history of the region,” and that it contributed to Europeans’ understanding of Asia and Buddhism. The Franciscans used Manila as a base for their missionary activities, for “cultural preparation and exposure, and point of departure to other locations in the region.” The book contains an account of the murder of his fellow Franciscans in Japan in 1597, an account originally published in Rome in 1599. 
 
 <param ve-image 
       label="Image"
       license="CC BY"
-      url="url here">
+      url="https://github.com/user-attachments/assets/582e6d19-af77-42c6-b018-3fa486ab8ed2">
 
-## 14. Title
-Text
-<br><br>
-
-<param ve-image 
-      label="Image"
-      license="CC BY"
-      url="url here">
-
-## 15. Title
-Text
-<br><br>
+## 14. Ruy González de Clavijo, Historia del gran Tamorlan e itinerario y enarracion del viage (Seville, 1582)
+Although the title page is damaged, we can see here that the Library’s founder, Robert Ashley, has listed the titles of the other books bound with the main work: Coronica de las Indias, by Gonzalo Fernández de Oviedo y Valdés, 1557; and Proverbios, by Íñigo López de Mendoza, Marquess of Santillana, 1532. Ashley was greatly interested in Spain and Spanish politics and culture, and all of the pre-1641 books in this exhibition were from his founding bequest. This book is a first-hand account of the early fifteenth-century embassy of the Castilian Henry III to Tamerlane’s court in Samarkand, and a very early Spanish travel narrative. Christopher Marlowe’s Tamburlaine the Great recounts the life and death of the emperor, properly known as Timūr (1336-1405).
 
 <param ve-image 
-      label="Image"
-      license="CC BY"
+      label="Timur, from Elogia virorum bellica virtute illustrium, by Paolo Giovio, 1575."
       url="url here">
 
-## 16. Title
-Text
-<br><br>
+## 15. Etiquette books and more
+In a previous exhibition, we explored how sixteenth and seventeenth century members of the Inns of Court pursued a variety of leisurely pursuits while at the Inns, including fencing, gaming, and dancing. The pursuit of courtly etiquette, and the ability to debate and discuss with one’s peers were also important for early modern Innsmen. Books on learning and scholarship, etiquette and courtiership were immensely popular. While English readers were not necessarily turning to Spanish authors on etiquette and rhetoric (Italian authors being the ‘go-to’ ones), these books would nonetheless have been useful tools to learn the Spanish language, and to learn more about Spanish culture and courtly politics. Thomas Wilson, in his mid-sixteenth century work The arte of rhetoric described the Spanish as being ‘nimble in body’, a characteristic that was much admired by would-be English courtiers, despite their ‘hispanophobic’ sentiment during the same time period. 
+
+<param ve-iframe 
+      label="The arte of rhetorique, by Thomas Wilson, 1562."
+      src="https://archive.org/embed/arteofrhetorique00wils/page/n202/mode/1up">
+
+## 16. Luis Pacheco de Narváez, ‘Libro de las Grandezas de la Espada,’ 1600 (MS3)
+This is one of the few non-legal manuscripts in the Library’s collection. Narváez and his teacher Jerónimo Carranza are the two most famous fencers of the Spanish Destreza style of rapier fencing, the quintessential martial art of the sixteenth and seventeenth centuries. The style of fencing that we are used to seeing in the movies in which the opponents stand completely upright, with arms totally outstretched, is derived from Destreza. The manuscript, presumably copied from a printed edition (first published in 1600), begins with an explanation shrouded in Renaissance humanism on the usefulness of the book, and that the reader will develop five virtues of understanding, ingenuity, armory, prudence, and spirit. The techniques rely on Euclidean geometry, in contrast to the techniques shown in the less precise medieval fencing manuals. – Nicholas Ricardo
+
+<param ve-iframe
+      label="Libro de las Grandezas de la Espada, Madrid, 1600."
+      src="https://books.google.co.uk/books?id=Dn48AAAAcAAJ&pg=PP5&output=embed">
+
+## 17. Desiderius Erasmus, Libro de Apothegmas (Antwerp, 1549)
+This is a Spanish translation of Erasmus’ ‘Apothegmatum Opus,’ itself based on Byzantine copies of Plutarch’s ‘Moralia,’ a collection of sayings and lessons ascribed to famous figures of classical antiquity, including “reyes y principes illustres, y de algunos filosofos insignes y memorables” (illustrious kings and princes, and some distinguished and memorable philosophers). There is a contemporary, but illegible inscription on the title page indicating its previous ownership. – Nicholas Ricardo
 
 <param ve-image 
-      label="Image"
-      license="CC BY"
-      url="url here">
+      label="Portrait of Desiderius Erasmus, after a Hans Holbein engraving. © The Trustees of the British Museum."
+      license="CC BY NC-SA 4.0"
+      url="https://github.com/user-attachments/assets/22c1eabb-df91-414d-a33d-ebcd911ce4c6">     
 
-## 17. Title
-Text
-<br><br>
+## 18. Lucas Gracián Dantisco, Galateo Español. Agora nuevamente impresso, y emendado … Y de nuevo va añadido el destierro de la ignorancia, que es, quaternario de auisos convenientes a este nuestro Galateo. Y la vida de Lazarillo de Tormes, castigado (Valladolid, 1603)
+This book has been described as a ‘handbook of manners’. It is a collective work of literature and etiquette, most likely based on earlier Italian works, Giovanni della Casa's Galateo, and Orazio Rinaldi's Dottrina delle virtu, et fuga de' viti. As with Erasmus’s work, the work comprises many aphorisms, which were used as models for living and courtier life. It also includes the ‘Life of Lazarillo de Tormes’, a Spanish novella originally published in 1554 – anonymously so, because of its anti-clerical stance; it was banned by the Catholic Church. An English translation made by William Style, a member of Inner Temple, was published in 1640. 
 
-<param ve-image 
-      label="Image"
-      license="CC BY"
-      url="url here">
+<param ve-iframe
+      label="Title page and frontispiece to Galateo Espagnol, 1640."
+      src="https://archive.org/embed/bim_early-english-books-1475-1640_galateo-espagnol-or-the-_gracian-dantisco-lucas_1640">
 
-## 18. Title
-Text
-<br><br>
+## 19. Cristóbal Suárez de Figueroa, Plaza universal de todas ciencias y artes (Madrid, 1615)
+Jonathan Bradbury has written that Suárez de Figueroa (1571-1644?) was a “well-known and divisive figure” in the Golden Age, and an “active participant” in literary debates with Luis de Góngora and Lope de Vega. This is one of his encyclopaedic works, and one of two works that brought him the most renown and success. It was partly translated from the Italian, and “sought to provide information on every human profession”. 
 
 <param ve-image 
-      label="Image"
-      license="CC BY"
-      url="url here">
+      url="https://github.com/user-attachments/assets/4c7c4a2c-b964-44fb-a088-3c445b1fbd54">
 
-## 19. Title
-Text
-<br><br>
-
-<param ve-image 
-      label="Image"
-      license="CC BY"
-      url="url here">
-
-## 20. Title
-Text
-<br><br>
-
-<param ve-image 
-      label="Image"
-      license="CC BY"
-      url="url here">
       
-## 21. Title
-Text
+## 20. Literature
+The Spanish Golden Age of literature lasted from the late fifteenth to late seventeenth century, and was an extraordinary period of creative output that produced some of the most influential works in the Spanish language. It encompassed poetry, drama, prose fiction, and religious and mystical writings. 
 <br><br>
+Some of the key figures of the Golden Age were Miguel de Cervantes (1547-1616); Félix Lope de Vega (1562-1635); Francisco de Quevedo (1580-1645); Santa Teresa de Ávila (1515-1582). 
+<br><br>
+The Golden Age was characterised by a number of literary innovations, including development of the picaresque novel and new theatrical forms. It had a lasting impact on the development of Spanish literature for centuries. 
+<br><br>
+This period saw Spanish literature reach new heights of creativity and sophistication, producing works that continue to be studied and admired worldwide. The interplay between different styles and genres created a rich literary landscape that reflected the complex social and cultural realities of Golden Age Spain. Many English writers were influenced by Spanish literature, including John Fletcher (a member of Middle Temple) who purportedly based a quarter of his plays on Spanish sources. 
 
 <param ve-image 
-      label="Image"
-      license="CC BY"
-      url="url here">
-
-## 22. Title
-Text
-<br><br>
+      label="Illustration of Cervantes in his library, from L'ingénieux hidalgo don Quichotte de la Manche, 1863, as illustrated by Gustave Doré. Source gallica.bnf.fr / Bibliothèque nationale de France."
+      url="https://github.com/user-attachments/assets/e86912b1-fb39-45d1-b312-eb8610baa61a">
+    
+## 21. Feliciano de Silva, Segunda Comedia de Celestina (Antwerp and Paris, 1550?)
+Silva (1491-1554) was one of many writers of chivalric romance of the Golden Age of Spanish literature, who was nonetheless mocked by Cervantes in Don Quixote. This is a sequel to the tragicomedy ‘bestseller’, La Celestina, in which de Silva portrays the murder of Celestina as being a staged farce. The book is heavily damaged so cannot be shown open, but a Thomas Sheffington has inscribed the title page with a note in Greek. He has also annotated the book throughout with English translations of words, indicating one way in which early modern English writers learned Spanish. There are no publication details on the title page, but it does state that the book was printed at the sign of the fat hen (‘ensena dela polla grassa’), which points to the printing house of Arnold Birckmann, whose printer’s device and motto was a fat hen. If you would like to sponsor the book’s repair, contact the Librarian: library@middletemple.org.uk. 
 
 <param ve-image 
-      label="Image"
-      license="CC BY"
-      url="url here">
+      url="https://github.com/user-attachments/assets/e8a4537e-b906-4a2b-8afe-85ecb88f3432">
 
-## 23. Title
-Text
-<br><br>
+## 22. Miguel de Cervantes Saavedra, El ingenioso hidalgo Don Quixote de la Mancha (Brussels, 1611-1616)
+One of the most famous novels in the world, Cervantes’ Don Quixote was originally published in two parts in 1605 and 1615, and this edition was also a two volume set, but the Library only holds volume two. The book was immensely popular, and translated into a variety of languages, including English in 1612. It was a parody of the medieval chivalric romances that were so popular throughout Europe, including those written by Feliciano de Silva, also featured in this exhibition. It is considered by most as a model for the modern novel. 
 
 <param ve-image 
-      label="Image"
-      license="CC BY"
-      url="url here">
+      label="Don Quixote has been translated into numerous languages, including Japanese. © The Trustees of the British Museum."
+      license="CC BY NC-SA 4.0"
+      url="https://github.com/user-attachments/assets/c611e9c5-b3a2-4669-9e96-6f4999ee8dab">
 
-## 24. Title
-Text
-<br><br>
-
-<param ve-image 
-      label="Image"
-      license="CC BY"
-      url="url here">
-
-## 25. Title
-Text
-<br><br>
+## 23. Antonio de Sosa, Topographia, e historia general de Argel, repartida en cinco tratados, do se veran casos estraños, muertes espantosas, y tormentos exquisitos, que conviene se entiendan en la Christianidad: con mucha doctrina, y elegancia curiosa (Valldolid, 1612)
+According to the National Library of Spain, this work gives an account of the imprisonment of Cervantes in Algiers for five years in 1575, and served as a guide to his biographers. The book also recounts relations between Christianity and Islam, and provides information about the social life and customs of Algeria. It was published anonymously, but according to Patricia Marín Cepeda, it was authored by Sosa (born 1538) who himself was imprisoned in Algiers for four years in the late 1570s. Philip II of Spain was unsuccessful in his attempts to pay a ransom for his release, but Sosa managed to escape on his own. 
 
 <param ve-image 
-      label="Image"
-      license="CC BY"
-      url="url here">
+      url="https://github.com/user-attachments/assets/ffe8b84c-c976-4b5c-9f7c-9c15ff7f29ee">
 
-## 26. Title
-Text
+
+## 24. War
+Unfortunately, relations between Spain and England during the early modern period were not harmonious. The Anglo-Spanish War (1585-1604), although never formally declared as such, began with England's support of Dutch rebels against Spanish rule. In 1588 Spain attempted to invade England and install a Catholic ruler on the throne. The Spanish Armada failed due to a combination of factors: poor weather, bad tactics, and poor ships and weaponry. In 1589 England launched the equally dismal ‘Counter Armada’, or English Armada, in an attempt to destroy Spain’s remaining ships, and destabilize Spain’s hold over Portugal. It was led by Sir Francis Drake and Sir John Norris. 
 <br><br>
+Various Anglo-Spanish wars continued throughout the seventeenth century, and into the eighteenth. The last member of the Habsburg dynasty to rule Spain, Charles II of Spain (1661-1700) died without an heir. His will stated that the throne should be passed to Philip V of Spain (a member of the French Bourbon dynasty). The War of the Spanish Succession (1701-1714) thus came about when a ‘Grand Alliance’ was formed between England, the Dutch Republic, the Holy Roman Empire, Prussia, Portugal, and an opposing ‘Bourbon alliance’ between France, Spain, Bavaria, and Cologne. The Alliance was concerned about the potential union of France and Spain under one monarch, and what that would do to the balance of power in Europe, and control over Spanish territories in Europe and the Americas. 
+<br><br>
+The Alliance eventually prevailed, and the 1713 Treaty of Utrecht and 1714 and Treaty of Rastatt put an end to the war, and Philip V renounced his right to the French throne. Spanish territories in Europe were divided among the victors, and Great Britain (formed in 1707 through the merger of the Kingdoms of England and Scotland) gained Gibraltar and Minorca. The balance of power in Europe was maintained, but Spain as a political centre of power diminished, and Britain became a leading maritime and commercial power.
 
 <param ve-image 
-      label="Image"
-      license="CC BY"
+      label="Defeat of the Spanish Armada 1588, from A new and complete history of England by Temple Sydney."
       url="url here">
 
-## 27. Title
-Text
+## 25. Alfonso de Valdés, Dialogo de Mercurio y Caron (circa 1530?)
+Published anonymously, according to the National Library of Spain, the author is Valdes, a prominent humanist and contemporary of Erasmus. This book details his political and religious philosophy, and the title makes mention of “lo que ha acaescido en la Guerra desdel ano de mill y quinientos y veynte y uno hasta los desafios delos reyes de Francia y Inglaterra” (that which occurred in the war from 1521 between the challenges of the kings of France and Spain). This is a reference to the Italian wars, in which Henry VIII was granted the title ‘Fidei Defensor’ by Pope Leo X, used to this day by British monarchs. This is an interesting copy, with its ownership inscriptions in Hebrew. 
 <br><br>
+https://middletemplelibrary.wordpress.com/2020/05/22/provenance-mysteries-dialogo-en-que-particularmente-se-tratan-las-cosas-acaecidas-en-roma-el-ano-de-m-d-xxvii-and-dialogo-de-mercurio-y-caron/ 
 
 <param ve-image 
-      label="Image"
-      license="CC BY"
-      url="url here">
+      url="https://github.com/user-attachments/assets/ebaeebce-9dfd-478f-ae24-3f498d9e4106">
 
-## 28. Title
-Text
-<br><br>
+## 26. MT/2/XRR/36 – Certificate of money charged for continuing the war against France and Spain, 1703
+This table lists the name, profession and address of each chamber occupant at Middle Temple and the yearly rate charged on them upon to assist the War of the Spanish Succession. As can be seen here, no less than three booksellers were resident in Middle Temple Lane. ‘An Act for granting to Her Majesty several Subsidies for carrying on the War against France and Spain’ had been passed in February 1703 (new style) to raise funds for the war. The certificate was compiled on 25 March 1703 by assessors, and in the case of the Inn, these were the Inn’s butlers, Thomas Silvester and Jonathan Pennyfather, and approved by senior Benchers: Edward Northey, John Entwisle, Martin Ryder, Thomas Lake, William Cherrey and Joseph Offley. 
 
 <param ve-image 
-      label="Image"
-      license="CC BY"
-      url="url here">
+      label="The certificate lists three booksellers resident in Middle Temple Lane: Benjamin Tooke, Bernard Lantoff, and George Grafton."
+      url="https://github.com/user-attachments/assets/33d3c76d-e5d4-4716-aa77-f7bed5e41eef">
 
-## 29. Title
-Text
+## 27. The conduct of His Grace the Duke of Ormonde, in the campagne of 1712
+England (which became Great Britain in 1707 during the war) played a crucial role in the War of the Spanish Succession. The Duke of Marlborough was the key military commander for England, and his victories at Blenheim, Ramillies, Oudenarde, and Malplaquet were pivotal. Britain negotiated the Treaty of Utrecht, which ended the war, and funded much of the allied war effort through loans and subsidies. This led to an increase in national debt due to war expenses. 
 <br><br>
+James Butler, 2nd Duke of Ormonde, was appointed to replace the Duke of Marlborough as commander of British forces in the Netherlands in early 1712. Ormonde received secret orders from the British government to avoid engaging in battle with the French: “he should avoid engaging in any siege, or hazarding a battle”. The British government sought to end its involvement in the war, and secretly drew up a truce with France. These instructions became known as the "restraining orders," effectively requiring Ormonde to hold back British troops from major operations, causing friction with Britain's allies, the Dutch and the Austrians, who were not informed of the secret negotiations. In July 1712, Ormonde withdrew British forces from the allied army, weakening their position, and contributing to their defeat at the Battle of Denain later that month. Although Ormonde was simply following orders, his conduct is often viewed as having damaged Britain's reputation, and the allied cause.
+
+<param ve-iframe
+      src="https://archive.org/embed/bim_eighteenth-century_the-conduct-of-his-grace_manley-mrs_1748">
+
+## 28. Frédéric de Granvelle Champagney, Recueils d'Aretophile, contenans par quels moyens les gens de guerre Espaignols ammenez es Pays bas par le Duc d'Alue, 1578
+Champagney (1536-1600) was originally from Burgundy, and became an advisor to Charles V. He was in service to the Spanish crown, and was Governor of Antwerp under the Spanish occupation. But he was also a critic of the harsh rule imposed on the Netherlands by Spain, recognising that it would lead to revolt. He was indeed captured by Dutch rebels in 1579 and remained in captivity until 1584. Jacques Charles-Brunet, in his seminal bibliography, claims that Recueils d'Aretophile is an apology by Champagney for the ‘Spanish fury’ unleashed in Antwerp. 
 
 <param ve-image 
-      label="Image"
-      license="CC BY"
-      url="url here">
+      label="Spanish withdrawal from Antwerp in 1577 © The Trustees of the British Museum."
+      license="CC BY-NC-SA 4.0"
+      url="https://github.com/user-attachments/assets/b4272ce6-9762-459c-898c-fa66bf552da6">
 
-## 30. Title
-Text
-<br><br>
-
-<param ve-image 
-      label="Image"
-      license="CC BY"
-      url="url here">
-
-## 31. Title
-Text
-<br><br>
+## 29. Historia de los vandos de los Zegris y Abencerrages caualleros Moros de Granada, de las ciuiles guerras que huuo en ella, 1604
+Despite what the title page says (‘traduzio en Castellano por Gines Perez), this was a pretended translation, of which this is only the first part. There were many ‘pseudo-translations’ published in Spanish during this time period, including Verdadera historia del rey Don Rodrigo, which the Library’s founder, Robert Ashley, translated in 1627 as Almansor the learned. The Historia recounts the history of Arabs in Spain, and the Kingdom of Granada. As such, it also covers the civil wars in Granada between the Zegríes (sultanate and Kingdom of Granada) and the Abencerrajes (a family from North Africa), before the city was conquered by King Ferdinand the Fifth. 
 
 <param ve-image 
-      label="Image"
-      license="CC BY"
-      url="url here">
+      label="View of the hall of Abencerrajes in the Alhambra in Granada. © The Trustees of the British Museum."
+      license="CC BY-NC-SA 4.0"
+      url="https://github.com/user-attachments/assets/5c44004e-9900-40df-8529-028ed970f813">
 
-## 32. Title
-Text
+## 30. Religion 
+Relations between England and Spain in the early modern period were characterised by the antagonism between both countries’ religious beliefs: that is, between Protestantism and Catholicism respectively. 
 <br><br>
+Spain was a resolutely Catholic country in the sixteenth century, and Philip II considered himself as Catholicism's chief defender in Europe. The Spanish Inquisition maintained Catholic orthodoxy and suppressed any incursions by Protestant influences. 
+<br><br>
+In England, Henry VIII broke from Rome in the 1530s, establishing the Church of England with himself as Supreme Head. After a brief return to Catholicism under Mary I (who married Philip II in 1554), a Protestant settlement was established by Elizabeth I after her succession in 1559. But Elizabeth's attempt to find a compromise between Catholics and Protestants was viewed as heretical by Catholic powers, and created long-lasting tensions between the two religions’ practitioners in England. 
+<br><br>
+Religious persecution of Catholics in England, and Protestants in Spain, continued throughout the sixteenth and seventeenth centuries. The Spanish Inquisition wasn't officially abolished until 1834, and the removal of legal restrictions on Catholics in England took place primarily in the late eighteenth and early nineteenth centuries. 
 
 <param ve-image 
-      label="Image"
-      license="CC BY"
-      url="url here">
+      label="Ferdinand of Austria, Cardinal-Infante of Spain. © The Trustees of the British Museum."
+      license="CC BY-NC-SA 4.0"
+      url="https://github.com/user-attachments/assets/ce613b8d-de14-40d0-b522-d04b78fad9e9">
 
-## 33. Title
-Text
-<br><br>
+## 31. Diego de Yepes, Historia Particular de la Persecucion de Inglaterra, y de los martirios mas insignes que en ella a avido (Madrid, 1599) 
+This 900-page book chronicles the persecution of Catholics in England during the reigns of Henry VIII, Edward VI, and Elizabeth I, told from the Spanish viewpoint. It includes depictions of religious martyrs, written at the end of Elizabeth I’s reign, and prior to any thawing out of relations between the two nations during the reign of James VI and I. Diego de Yepes was Bishop of Tarazona. Brian C. Lockey has written that books like this provided Europeans with information on English events (since social media and newspapers did not yet exist of course), and were the first accounts of exiled and executed Catholics in England, such as Elizabeth Sander (d. 1607). Sander was a Bridgettine nun, and a Syon Abbey nun; she escaped prison in 1580, before making her way to Europe, eventually settling in Lisbon in 1594. Yepes included an account of her life in this book (p. 724), which was translated from a fellow nun’s letter to Sir Francis Englefield, himself in exile. Most of the materials in Yepes’s book were actually gathered by Joseph Creswell (1556-1623), an English Jesuit out of reports and news passed around among English Catholic exiles.
 
-<param ve-image 
-      label="Image"
-      license="CC BY"
-      url="url here">
-
-## 34. Title
-Text
-<br><br>
+<param ve-iframe 
+      src="https://books.google.co.uk/books?id=lSOSJqdtfCUC&pg=PA724&output=embed">
+      
+## 32. Onofre Manescal, Miscellanea de tres tratados, de las apariciones de los espiritus el uno, donde se trata como Dios habla a los hombres (Barcelona, 1611)
+This compendium of Spanish tracts includes one on ghosts and another on the antichrist. Manescal was a Catalan professor of theology at the University of Barcelona who wrote various treatises in Catalan and Latin. Jonathan David Bradbury has written that this work is one of several that characterise the Golden Age of Spanish miscellanies, although it stands out from the more traditional miscellanies, in that the two tracts and sermon are also stand-alone, full-length works. He describes their placement together in one volume as ‘arbitrary’. Manescal has since become well-known for his defence of the Catalan language. 
 
 <param ve-image 
-      label="Image"
+      url="https://github.com/user-attachments/assets/3f4e9ce5-db02-475e-8b47-8f43ae8fc728">
+
+## 33. Luis de Granada, Guia de peccadores (Salamanca, 1568) and Middle Temple Archives, MT/10/POR/119, engraved portrait of Robert Cecil, Earl of Salisbury. 
+Luis de Granada (1504-1588) was a Dominican friar, theologian, author, and preacher.  This is the best known of his ascetical writings, and was something of a ‘blockbuster’ for its time. It is a guide for sinners, and has been compared to Thomas à Kempis’s The Imitation of Christ, for its smooth eloquence. It went through many editions and translations (including into English), and the money Granada earned from his writings were donated to the poor. This copy has a sixteenth century ownership inscription of an ‘Edward James’ – possibly the James (1577-1606) who was a member of the Spanish Company, the chartered company of English merchants who traded with Spain and Portugal. Robert Cecil, whose portrait is on display here, was also a member of the Spanish Company. In 1607, Robert Ashley wrote to the Earl requesting that he be considered successor to his brother, Sir Anthony, as Clerk of the Privy Council upon Anthony’s retirement. He was unsuccessful in his bid. 
+
+<param ve-image 
+      label="Engraved portrait of Robert Cecil, Earl of Salisbury, Middle Temple Archive MT/10/POR/119."
       license="CC BY"
-      url="url here">
+      url="https://github.com/user-attachments/assets/df35a43a-c671-4f14-8673-751ad5079a1f">
+
+## 34. Raimundo González de Montes, Sanctae inquisitionis hispanicae artes aliquot detectae, ac palam traductæ (Heidelberg, 1567)
+Despite what the Monty Python troupe may have to say about it, one should expect at least one item on the Spanish inquisition in an exhibition on early modern Spain. This book was written by an exiled Spanish Protestant, and “is the first systematic denunciation” of the Inquisition. It contains a description of the Inquisition’s methods (not then publicly available), including accounts of their use of torture. It was quickly translated into a variety of languages, and the Library has a copy of the French one, Histoire de l'Inquisition d'Espagne, published in Geneva in 1568. It was translated into English in 1625 as: A full, ample and punctuall discouery of the barbarous, bloudy, and inhumane practises of the Spanish Inquisition, against Protestants.
+
+<param ve-image 
+      label="An auto-da-fé in the Great Square in Madrid with the inquisitors pronouncing the sentences to the accused and the crowds on the tribunes. Source: Wellcome Collection."
+      license="CC BY PDM"
+      url="https://github.com/user-attachments/assets/3cae35bc-8e1c-4ef9-8b5e-02a1de260f71">
 
 ##
 This exhibition runs in Middle Temple Library from January to April 2025. For more information about the Library and what we do, please click [here](https://www.middletemple.org.uk/library) to visit our website.
