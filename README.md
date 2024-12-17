@@ -282,9 +282,8 @@ Despite what the Monty Python troupe may have to say about it, one should expect
 
 <param ve-image 
       label="An auto-da-fé in the Great Square in Madrid with the inquisitors pronouncing the sentences to the accused and the crowds on the tribunes. Source: Wellcome Collection."
+       a rel="license" href="https://creativecommons.org/public-domain/pdm"
       url="https://github.com/user-attachments/assets/3cae35bc-8e1c-4ef9-8b5e-02a1de260f71">
-       <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons 
-Attribution Non-Commercial 3.0 License</a>. >
 
 ##
 This exhibition runs in Middle Temple Library from January to April 2025. For more information about the Library and what we do, please click [here](https://www.middletemple.org.uk/library) to visit our website.
