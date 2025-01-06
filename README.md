@@ -54,11 +54,6 @@ Nuñez (1531-1611) was a Portuguese doctor and professor at Salamanca. The book 
 <param ve-image 
       url="https://github.com/user-attachments/assets/b322714d-367d-44ed-9a49-a83499420cf0">
 
-<param ve-image 
-      label="Image"
-      license="CC BY"
-      url="url here">
-
 ## 7. Francisco Franco, <cite> Libro de enfermedades contagiosas y de la preservacion dellas </cite> (Seville, 1569)
 As can be seen here at the bottom of the title page, this book once belonged to ‘H. Cobham’, that is, Sir Henry Brooke (1537-1592), 11th Baron Cobham. In the text, Cobham makes reference to Aristotle, Pliny, and other works on medicine. It is bound, and was probably originally issued with, Franco’s <cite>Tractado de la nieve y del uso della</cite>, a book about the medicinal properties of snow. Cobham was thought to have been the subject of Elizabethan satires written by Thomas Nashe and Ben Jonson. Cobham, along with Walter Raleigh and Thomas Grey, was involved in the ‘Main Plot’, an attempt to force a _coup d’etat_ in 1603. Unsuccessful attempts were made to involve Spain with this plot. Cobham, Grey and Raleigh were imprisoned in the Tower of London after the _coup d’etat_ failed. 
 
