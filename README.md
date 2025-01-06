@@ -87,11 +87,12 @@ Spain quickly set about establishing colonies in South America, establishing the
 The quest for silver, gold, and other natural resources drove much of the exploration and conquests. Native populations resisted Spanish rule, but were ultimately overwhelmed by Spanish weaponry, and through exposure to diseases previously unseen, such as measles, smallpox, and typhus. The indigenous populations had no built-up immunity to such diseases. 
 <br><br>
 The conquistadors imposed cultural and religious changes, forcing the indigenous populations to adopt Catholicism and the Spanish language. They also enslaved the populations to assist them with their extraction of silver and gold, which was transported to Spain. The conquest led to significant demographic, cultural, and economic changes that continue to influence South American countries.
-
+<br><br>
+Image courtesy of [Science Photo Library](https://www.sciencephoto.com/media/506397/view/francisco-pizarro-spanish-conquistadorhttps://www.sciencephoto.com/media/506397/view). 
 <param ve-image 
-      label="Image"
+      label="Image of Pizarro, from William Hickling Prescott, History of the conquest of Peru, 1847. Science Photo Library, Image C015/5792."
       license="CC BY"
-      url="url here">
+      url="https://github.com/user-attachments/assets/bdf52f4b-cb36-4fbe-b3bf-ad0c92c1db6e">
 
 ## 11. Bartolomé de las Casas, Tratado del Imperio Soberano y Principado Universal que los reyes de Castilla y Leon tienen sobre las Indias (Seville, 1552)
 De las Casas is one of the most important primary sources for the Spanish conquest and colonization of the Americas. His most famous work was Brevísima Relación de la destrucción de las Indias, and with it, along with Tratado, Las Casas demonstrated his opposition to the Encomienda system. De las Casas entreated Charles V to cease the destruction in the Americas brought by the new Spanish nobles living there. Their system relied on forced indigenous labour, and las Casas tried to advance fair treatment for the indigenous peoples, and opposed slavery: “cease the havoc and destruction which has been perpetuated on the people of these lands.” – Nicholas Ricardo
@@ -116,10 +117,12 @@ Missionary accounts of the sixteenth and seventeenth centuries provided European
 
 ## 14. Ruy González de Clavijo, Historia del gran Tamorlan e itinerario y enarracion del viage (Seville, 1582)
 On the Library’s copy of this work, the Library’s founder, Robert Ashley has listed the titles of the other works: Coronica de las Indias, by Gonzalo Fernández de Oviedo y Valdés, 1557; and Proverbios, by Íñigo López de Mendoza, Marquess of Santillana, 1532. Ashley was greatly interested in Spain and Spanish politics and culture, and all of the pre-1641 books in this exhibition were from his founding bequest. This book is a first-hand account of the early fifteenth-century embassy of the Castilian Henry III to Tamerlane’s court in Samarkand, and a very early Spanish travel narrative. Christopher Marlowe’s Tamburlaine the Great recounts the life and death of the emperor, properly known as Timūr (1336-1405).
+<br><br>
+Image courtesy of [Science Photo Library](https://www.sciencephoto.com/media/91275/view/tamerlane-turko-mongol-emperor). 
 
 <param ve-image 
-      label="Timur, from Elogia virorum bellica virtute illustrium, by Paolo Giovio, 1575."
-      url="url here">
+      label="Timūr, from Elogia virorum bellica virtute illustrium, by Paolo Giovio, 1575. Science Photo Library Image C002/7029."
+      url="https://github.com/user-attachments/assets/238e4f49-724b-40d6-8b36-6bb820d0cd24">
 
 ## 15. Etiquette books and more
 In a previous exhibition, we explored how sixteenth and seventeenth century members of the Inns of Court pursued a variety of leisurely pursuits while at the Inns, including fencing, gaming, and dancing. The pursuit of courtly etiquette, and the ability to debate and discuss with one’s peers were also important for early modern Innsmen. Books on learning and scholarship, etiquette and courtiership were immensely popular. While English readers were not necessarily turning to Spanish authors on etiquette and rhetoric (Italian authors being the ‘go-to’ ones), these books would nonetheless have been useful tools to learn the Spanish language, and to learn more about Spanish culture and courtly politics. Thomas Wilson, in his mid-sixteenth century work The arte of rhetoric described the Spanish as being ‘nimble in body’, a characteristic that was much admired by would-be English courtiers, despite their ‘hispanophobic’ sentiment during the same time period. 
