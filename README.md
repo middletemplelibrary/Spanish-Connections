@@ -199,9 +199,10 @@ Unfortunately, relations between Spain and England during the early modern perio
 Various Anglo-Spanish wars continued throughout the seventeenth century, and into the eighteenth. The last member of the Habsburg dynasty to rule Spain, Charles II of Spain (1661-1700) died without an heir. His will stated that the throne should be passed to Philip V of Spain (a member of the French Bourbon dynasty). The War of the Spanish Succession (1701-1714) thus came about when a ‘Grand Alliance’ was formed between England, the Dutch Republic, the Holy Roman Empire, Prussia, Portugal, and an opposing ‘Bourbon alliance’ between France, Spain, Bavaria, and Cologne. The Alliance was concerned about the potential union of France and Spain under one monarch, and what that would do to the balance of power in Europe, and control over Spanish territories in Europe and the Americas. 
 <br><br>
 The Alliance eventually prevailed, and the 1713 Treaty of Utrecht and 1714 and Treaty of Rastatt put an end to the war, and Philip V renounced his right to the French throne. Spanish territories in Europe were divided among the victors, and Great Britain (formed in 1707 through the merger of the Kingdoms of England and Scotland) gained Gibraltar and Minorca. The balance of power in Europe was maintained, but Spain as a political centre of power diminished, and Britain became a leading maritime and commercial power.
-
+<br><br>
+Image courtesy of [Science Photo Library](https://www.sciencephoto.com/media/440119/view/defeat-of-the-spanish-armada-1588). 
 <param ve-image 
-      label="Defeat of the Spanish Armada 1588, from A new and complete history of England by Temple Sydney."
+      label="Defeat of the Spanish Armada 1588, from A new and complete history of England by Temple Sydney. Science Photo Library, Image C011/6849."
       url="https://github.com/user-attachments/assets/dec6e2d4-e92b-4406-a9cf-b570bcf73f70">
 
 ## 25. Alfonso de Valdés, Dialogo de Mercurio y Caron (circa 1530?)
