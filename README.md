@@ -20,13 +20,13 @@ Despite the economic and military tensions, there was an active exchange of good
       license="CC BY-NC-SA 4.0"
       url="https://github.com/user-attachments/assets/023ab023-94e0-4d31-800d-2cb60fdc5815">
 
-## 2. Medicine 
+## 2. _Medicine_
 Middle Temple Library’s collection of early modern Spanish books illuminates a pivotal moment in the history of medicine when new therapies and techniques seemed to promise victory over the old scourges of disease and wounds. Juan Fragoso, personal surgeon to Philip II and author of the very rare Cyrugia (1573), is best known as an avid compiler of information about exotic plants and their medicinal uses. Alessandro Quintilio, author of the Relacion y memoria (1609) formed part of an international network of licensees who sold Vittorio Algarotti’s ‘quintessence of medicinal gold’. Among the Library’s books we also find works by widely respected authorities, such as Cristóbal de Vega and Francisco Franco, both of whom were professors at Alcalá de Henares, one of Spain’s finest medical schools. Juan de Liaño, on the other hand, is almost entirely unknown and only five copies of his Examen (1546) exist. Reminders of the unrelenting menace of epidemic disease are on display in Franco’s Libro de enfermedades contagiosas (1569) and Ambrosio Núñez’s Tratado, published in the wake of the 1599 outbreak of plague that killed 10% of the Castilian population. Finally, Jerónimo Soriano’s Libro de experimentos medicos indicates the growing market for vernacular recipe books, intended to teach broad audiences the secrets to making medicines at home. Between 1599 and 1700, Soriano’s book went through at least eleven editions, of which this is the fifth. – Professor John Slater, Colorado State University
 
 <param ve-image 
       url="https://github.com/user-attachments/assets/68276cdd-f9fd-4667-949f-8312d203bafe">
 
-## 3. Juan de Liaño, Examen de la composicion theriacal de Andromacho (Burgos, 1546)
+## 3. Juan de Liaño, <cite> Examen de la composicion theriacal de Andromacho </cite> (Burgos, 1546)
 This book takes the form of a dialogue between two characters, each representing aspects of the wider theories of early modern medicine. Sylvio is the learned Galenic physician who delves into ancient texts to heal, whereas Maturiro is an old botanist who is now concerned with the practicality of using herbs and plants to heal. Their first dialogue debates whether Sylvio is working too hard – Maturiro believes work is difficult, but Sylvio believes leisure will lead to sin. Theriac (also called Mithridate) was a well-known panacea throughout the classical, medieval, and early modern period. It was believed to have been invented by King Mithridates VI of Pontus, and was prescribed by royal and imperial physicians for centuries. It was to Physicians as the Philosopher’s Stone was to alchemists: the magnum opus. – Nicholas Ricardo
 
 <param ve-iframe 
