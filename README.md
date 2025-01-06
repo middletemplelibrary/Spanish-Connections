@@ -200,11 +200,9 @@ Various Anglo-Spanish wars continued throughout the seventeenth century, and int
 <br><br>
 The Alliance eventually prevailed, and the 1713 Treaty of Utrecht and 1714 and Treaty of Rastatt put an end to the war, and Philip V renounced his right to the French throne. Spanish territories in Europe were divided among the victors, and Great Britain (formed in 1707 through the merger of the Kingdoms of England and Scotland) gained Gibraltar and Minorca. The balance of power in Europe was maintained, but Spain as a political centre of power diminished, and Britain became a leading maritime and commercial power.
 
-Link to image: https://www.sciencephoto.com/media/440119/view/defeat-of-the-spanish-armada-1588
-
 <param ve-image 
       label="Defeat of the Spanish Armada 1588, from A new and complete history of England by Temple Sydney."
-      url="https://github.com/user-attachments/assets/f03ba90a-70ea-46fb-86f7-9fb78cf8e056">
+      url="https://github.com/user-attachments/assets/dec6e2d4-e92b-4406-a9cf-b570bcf73f70">
 
 ## 25. Alfonso de Valdés, Dialogo de Mercurio y Caron (circa 1530?)
 Published anonymously, according to the National Library of Spain, the author is Valdes, a prominent humanist and contemporary of Erasmus. This book details his political and religious philosophy, and the title makes mention of “lo que ha acaescido en la Guerra desdel ano de mill y quinientos y veynte y uno hasta los desafios delos reyes de Francia y Inglaterra” (that which occurred in the war from 1521 between the challenges of the kings of France and Spain). This is a reference to the Italian wars, in which Henry VIII was granted the title ‘Fidei Defensor’ by Pope Leo X, used to this day by British monarchs. This is an interesting copy, with its ownership inscriptions in Hebrew. 
