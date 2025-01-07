@@ -85,7 +85,8 @@ The conquistadors imposed cultural and religious changes, forcing the indigenous
 <br><br>
 Image courtesy of [Science Photo Library](https://www.sciencephoto.com/media/506397/view/francisco-pizarro-spanish-conquistadorhttps://www.sciencephoto.com/media/506397/view). 
 <param ve-image 
-      label="Image of Pizarro, from William Hickling Prescott, History of the conquest of Peru, 1847. Science Photo Library, Image C015/5792."
+      label="Image of Pizarro, from William Hickling Prescott, History of the conquest of Peru, 1847."
+      attribution="Science Photo Library, Image C015/5792."
       url="https://github.com/user-attachments/assets/bdf52f4b-cb36-4fbe-b3bf-ad0c92c1db6e">
 
 ## Bartolomé de las Casas, <cite> Tratado del Imperio Soberano y Principado Universal que los reyes de Castilla y Leon tienen sobre las Indias </cite> (Seville, 1552)
@@ -116,7 +117,8 @@ On the Library’s copy of this work, the Library’s founder, Robert Ashley has
 Image courtesy of [Science Photo Library](https://www.sciencephoto.com/media/91275/view/tamerlane-turko-mongol-emperor). 
 
 <param ve-image 
-      label="Timūr, from Elogia virorum bellica virtute illustrium, by Paolo Giovio, 1575. Science Photo Library, Image C002/7029."
+      label="Timūr, from Elogia virorum bellica virtute illustrium, by Paolo Giovio, 1575."
+       attribution="Science Photo Library, Image C002/7029."
       url="https://github.com/user-attachments/assets/238e4f49-724b-40d6-8b36-6bb820d0cd24">
 
 ## Etiquette books and more
@@ -198,7 +200,8 @@ The Alliance eventually prevailed, and the 1713 Treaty of Utrecht and 1714 and T
 <br><br>
 Image courtesy of [Science Photo Library](https://www.sciencephoto.com/media/440119/view/defeat-of-the-spanish-armada-1588). 
 <param ve-image 
-      label="Defeat of the Spanish Armada 1588, from A new and complete history of England by Temple Sydney. Science Photo Library, Image C011/6849."
+      label="Defeat of the Spanish Armada 1588, from A new and complete history of England by Temple Sydney."
+      attribution="Science Photo Library, Image C011/6849."
       url="https://github.com/user-attachments/assets/dec6e2d4-e92b-4406-a9cf-b570bcf73f70">
 
 ## Alfonso de Valdés, <cite> Dialogo de Mercurio y Caron  </cite> (circa 1530?)
