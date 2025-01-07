@@ -1,7 +1,6 @@
 <param ve-config 
        title="Sixteenth to Eighteenth Century Spanish Connections at Middle Temple"
        author="Middle Temple Library"
-       banner="https://github.com/user-attachments/assets/3d9efd5c-8253-4279-8635-1af61a59c869"       
        layout="vertical">
 
 ## 1. Introduction: Sixteenth to Eighteenth Century Spanish Connections at Middle Temple
