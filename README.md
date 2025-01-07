@@ -107,7 +107,8 @@ Missionary accounts of the sixteenth and seventeenth centuries provided European
 <param ve-image 
       label="Image"
       license="CC BY"
-      url="https://github.com/user-attachments/assets/582e6d19-af77-42c6-b018-3fa486ab8ed2">
+      url="https://github.com/user-attachments/assets/abdc0665-d523-4cd1-9b10-94489a56e708">
+
 
 ## 14. Ruy González de Clavijo, <cite> Historia del gran Tamorlan e itinerario y enarracion del viage </cite> (Seville, 1582)
 On the Library’s copy of this work, the Library’s founder, Robert Ashley has listed the titles of the other works: <cite>Coronica de las Indias</cite>, by Gonzalo Fernández de Oviedo y Valdés, 1557; and <cite>Proverbios</cite>, by Íñigo López de Mendoza, Marquess of Santillana, 1532. Ashley was greatly interested in Spain and Spanish politics and culture, and all of the pre-1641 books in this exhibition were from his founding bequest. This book is a first-hand account of the early fifteenth-century embassy of the Castilian Henry III to Tamerlane’s court in Samarkand, and a very early Spanish travel narrative. Christopher Marlowe’s Tamburlaine the Great recounts the life and death of the emperor, properly known as Timūr (1336-1405).
