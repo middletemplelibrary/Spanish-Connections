@@ -1,7 +1,7 @@
 <param ve-config 
        title="Sixteenth to Eighteenth Century Spanish Connections at Middle Temple"
        author="Middle Temple Library"
-       banner="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/54f6c993-26ee-4c1c-a361-c590a27763ee"
+       banner="https://github.com/user-attachments/assets/3d9efd5c-8253-4279-8635-1af61a59c869"       
        layout="vertical">
 
 ## 1. Introduction: Sixteenth to Eighteenth Century Spanish Connections at Middle Temple
