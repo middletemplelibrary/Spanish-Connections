@@ -1,11 +1,11 @@
-<param ve-config 
+F<param ve-config 
        title="Sixteenth to Eighteenth Century Spanish Connections at Middle Temple"
        author="Middle Temple Library"
        banner="https://github.com/user-attachments/assets/8bde6ddb-d29e-4bb4-9a40-641eaf9a7139"
        layout="vertical">
 
 ## Introduction: Sixteenth to Eighteenth Century Spanish Connections at Middle Temple
-This exhibition celebrates Middle Temple Library’s significant collection of sixteenth and seventeenth century books published in Spain, and includes some items from the Inn’s Archive on the War of the Spanish Succession of 1701-1714. Some of the caption cards were written by Nicholas Ricardo, one of our 2024 work experience students. We are very grateful to Ana Sáez Hidalgo (Universidad de Valladolid) for proofreading the captions, and correcting our errors. 
+This exhibition celebrates Middle Temple Library’s significant collection of sixteenth and seventeenth century books published in Spain, and includes some items from the Inn’s Archive on the War of the Spanish Succession of 1701-1714. Some of the caption cards were written by Nicholas Ricardo, one of our 2024 work experience students. We are very grateful to Ana Sáez-Hidalgo (Universidad de Valladolid) for proofreading the captions, and correcting our errors. 
 <br><br>
 Relations between Spain and England in the late sixteenth and early seventeenth centuries were fractious and complex, mostly due to the Protestant and Catholic religious tensions between the two nations. The Anglo-Spanish War (1585-1604), although never formally declared as a war, began with England's support of Dutch rebels against Spanish rule. This period saw the 1588 Spanish Armada, a failed attempt by Spain to invade England. This was followed in 1589 by the lesser known ‘Counter Armada’, when England unsuccessfully attempted to intercept Spanish ships from returning their silver hoards from the Americas, and to capture the Portuguese Azores islands, which were occupied by Spain at the time. 
 <br><br>
@@ -286,4 +286,4 @@ Despite what the Monty Python troupe may have to say about it, one should expect
       url="https://github.com/user-attachments/assets/3cae35bc-8e1c-4ef9-8b5e-02a1de260f71">
 
 ##
-This exhibition runs in Middle Temple Library from January to April 2025 and was curated by Dr. Renae Satterley with contributions from Nicholas Ricardo, John Slater, and Ana Sáez Hidalgo. For more information about the Library and what we do, please click [here](https://www.middletemple.org.uk/library) to visit our website.
+This exhibition runs in Middle Temple Library from January to April 2025 and was curated by Dr. Renae Satterley with contributions from Nicholas Ricardo, John Slater, and Ana Sáez-Hidalgo. For more information about the Library and what we do, please click [here](https://www.middletemple.org.uk/library) to visit our website.
