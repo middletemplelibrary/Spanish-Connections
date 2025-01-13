@@ -286,4 +286,4 @@ Despite what the Monty Python troupe may have to say about it, one should expect
       url="https://github.com/user-attachments/assets/3cae35bc-8e1c-4ef9-8b5e-02a1de260f71">
 
 ##
-This exhibition runs in Middle Temple Library from January to April 2025 and was curated by Dr. Renae Satterley with contributions from Nicholas Ricardo, John Slater, and Ana Sáez-Hidalgo. For more information about the Library and what we do, please click [here](https://www.middletemple.org.uk/library) to visit our website.
+This exhibition runs in Middle Temple Library from January to April 2025 and was curated by  Middle Temple Librarian, Dr. Renae Satterley with contributions from Nicholas Ricardo, John Slater, and Ana Sáez-Hidalgo. For more information about the Library and what we do, please click [here](https://www.middletemple.org.uk/library) to visit our website.
