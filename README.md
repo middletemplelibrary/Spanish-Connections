@@ -1,4 +1,4 @@
-F<param ve-config 
+<param ve-config 
        title="Sixteenth to Eighteenth Century Spanish Connections at Middle Temple"
        author="Middle Temple Library"
        banner="https://github.com/user-attachments/assets/8bde6ddb-d29e-4bb4-9a40-641eaf9a7139"
