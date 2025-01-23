@@ -30,7 +30,7 @@ Middle Temple Library’s collection of early modern Spanish books illuminates a
 This book takes the form of a dialogue between two characters, each representing aspects of the wider theories of early modern medicine. Sylvio is the learned Galenic physician who delves into ancient texts to heal, whereas Maturiro is an old botanist who is now concerned with the practicality of using herbs and plants to heal. Their first dialogue debates whether Sylvio is working too hard – Maturiro believes work is difficult, but Sylvio believes leisure will lead to sin. Theriac (also called Mithridate) was a well-known panacea throughout the classical, medieval, and early modern period. It was believed to have been invented by King Mithridates VI of Pontus, and was prescribed by royal and imperial physicians for centuries. It was to Physicians as the Philosopher’s Stone was to alchemists: the magnum opus. – Nicholas Ricardo
 
 <param ve-iframe 
-      src="https://archive.org/embed/examen-de-la-composicion-theriacal-de-andromacho"
+      src="https://archive.org/embed/examen-de-la-composicion-theriacal-de-andromacho/page/n65"
        license="CC BY-NC-ND 4.0">
       
 ## Gerónimo Soriano, <cite> Libro de experimentos medicos faciles, y verdadoros </cite> (Barcelona, 1614)
